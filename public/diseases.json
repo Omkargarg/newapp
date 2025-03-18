@@ -1,0 +1,10 @@
+{
+    "flu": {
+      "symptoms": ["Fever", "Cough", "Sore throat", "Runny nose"],
+      "precautions": ["Drink plenty of fluids", "Get rest", "Wash hands frequently"]
+    },
+    "malaria": {
+      "symptoms": ["Chills", "Fever", "Sweating", "Nausea"],
+      "precautions": ["Use mosquito nets", "Apply insect repellent", "Take antimalarial drugs"]
+    }
+  }
